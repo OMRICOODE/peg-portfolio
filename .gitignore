@@ -1,0 +1,5 @@
+# PEG Portfolio Cloud
+__pycache__/
+*.pyc
+.env
+.venv/
