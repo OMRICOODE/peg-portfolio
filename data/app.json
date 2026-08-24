@@ -16,13 +16,13 @@
       "p_target": 853.91,
       "g": 0.2319,
       "peg_entry": 0.2076,
-      "price": 176.17,
-      "market_value": 4969.26,
-      "gain": -30.74,
-      "gain_pct": -0.6,
+      "price": 176.43,
+      "market_value": 4976.71,
+      "gain": -23.29,
+      "gain_pct": -0.5,
       "peg_now": 0.208,
       "months_held": 0,
-      "to_target_pct": 384.7
+      "to_target_pct": 384.0
     },
     {
       "ticker": "LULU",
@@ -35,13 +35,13 @@
       "p_target": 525.37,
       "g": 0.3018,
       "peg_entry": 0.2304,
-      "price": 120.92,
-      "market_value": 4993.6,
-      "gain": -6.4,
-      "gain_pct": -0.1,
+      "price": 121.12,
+      "market_value": 5002.06,
+      "gain": 2.06,
+      "gain_pct": 0.0,
       "peg_now": 0.23,
       "months_held": 0,
-      "to_target_pct": 334.5
+      "to_target_pct": 333.8
     },
     {
       "ticker": "ALL",
@@ -54,9 +54,9 @@
       "p_target": 928.88,
       "g": 0.1781,
       "peg_entry": 0.2733,
-      "price": 259.41,
-      "market_value": 5109.91,
-      "gain": 109.91,
+      "price": 259.39,
+      "market_value": 5109.52,
+      "gain": 109.52,
       "gain_pct": 2.2,
       "peg_now": 0.273,
       "months_held": 0,
@@ -73,9 +73,9 @@
       "p_target": 767.34,
       "g": 0.1829,
       "peg_entry": 0.2746,
-      "price": 203.93,
-      "market_value": 4838.89,
-      "gain": -161.11,
+      "price": 203.9,
+      "market_value": 4838.18,
+      "gain": -161.82,
       "gain_pct": -3.2,
       "peg_now": 0.275,
       "months_held": 0,
@@ -92,13 +92,13 @@
       "p_target": 442.82,
       "g": 0.2242,
       "peg_entry": 0.2927,
-      "price": 128.74,
-      "market_value": 4966.62,
-      "gain": -33.38,
-      "gain_pct": -0.7,
+      "price": 128.37,
+      "market_value": 4952.54,
+      "gain": -47.46,
+      "gain_pct": -0.9,
       "peg_now": 0.293,
       "months_held": 0,
-      "to_target_pct": 244.0
+      "to_target_pct": 245.0
     },
     {
       "ticker": "AMZN",
@@ -111,13 +111,13 @@
       "p_target": 854.22,
       "g": 0.4378,
       "peg_entry": 0.3028,
-      "price": 262.69,
-      "market_value": 5078.58,
-      "gain": 78.58,
-      "gain_pct": 1.6,
+      "price": 262.95,
+      "market_value": 5083.51,
+      "gain": 83.51,
+      "gain_pct": 1.7,
       "peg_now": 0.303,
       "months_held": 0,
-      "to_target_pct": 225.2
+      "to_target_pct": 224.9
     },
     {
       "ticker": "ACGL",
@@ -130,13 +130,13 @@
       "p_target": 319.33,
       "g": 0.2333,
       "peg_entry": 0.3112,
-      "price": 101.16,
-      "market_value": 5089.05,
-      "gain": 89.05,
-      "gain_pct": 1.8,
+      "price": 101.08,
+      "market_value": 5084.77,
+      "gain": 84.77,
+      "gain_pct": 1.7,
       "peg_now": 0.311,
       "months_held": 0,
-      "to_target_pct": 215.7
+      "to_target_pct": 215.9
     },
     {
       "ticker": "CI",
@@ -149,13 +149,13 @@
       "p_target": 840.88,
       "g": 0.2723,
       "peg_entry": 0.33,
-      "price": 278.58,
-      "market_value": 5019.38,
-      "gain": 19.38,
-      "gain_pct": 0.4,
+      "price": 277.96,
+      "market_value": 5008.21,
+      "gain": 8.21,
+      "gain_pct": 0.2,
       "peg_now": 0.33,
       "months_held": 0,
-      "to_target_pct": 201.8
+      "to_target_pct": 202.5
     },
     {
       "ticker": "SMCI",
@@ -168,13 +168,13 @@
       "p_target": 108.06,
       "g": 0.3102,
       "peg_entry": 0.3446,
-      "price": 35.41,
-      "market_value": 4754.3,
-      "gain": -245.7,
-      "gain_pct": -4.9,
+      "price": 35.52,
+      "market_value": 4768.39,
+      "gain": -231.61,
+      "gain_pct": -4.6,
       "peg_now": 0.345,
       "months_held": 0,
-      "to_target_pct": 205.2
+      "to_target_pct": 204.3
     },
     {
       "ticker": "DECK",
@@ -187,13 +187,13 @@
       "p_target": 249.42,
       "g": 0.3134,
       "peg_entry": 0.3676,
-      "price": 91.08,
-      "market_value": 4967.0,
-      "gain": -33.0,
-      "gain_pct": -0.7,
+      "price": 91.12,
+      "market_value": 4969.73,
+      "gain": -30.27,
+      "gain_pct": -0.6,
       "peg_now": 0.368,
       "months_held": 0,
-      "to_target_pct": 173.9
+      "to_target_pct": 173.7
     },
     {
       "ticker": "PYPL",
@@ -206,13 +206,13 @@
       "p_target": 165.63,
       "g": 0.265,
       "peg_entry": 0.3716,
-      "price": 61.94,
-      "market_value": 5031.68,
-      "gain": 31.68,
+      "price": 61.91,
+      "market_value": 5029.25,
+      "gain": 29.25,
       "gain_pct": 0.6,
       "peg_now": 0.372,
       "months_held": 0,
-      "to_target_pct": 167.4
+      "to_target_pct": 167.5
     },
     {
       "ticker": "HIG",
@@ -225,13 +225,13 @@
       "p_target": 366.05,
       "g": 0.2285,
       "peg_entry": 0.3718,
-      "price": 139.04,
-      "market_value": 5108.01,
-      "gain": 108.01,
-      "gain_pct": 2.2,
+      "price": 138.86,
+      "market_value": 5101.4,
+      "gain": 101.4,
+      "gain_pct": 2.0,
       "peg_now": 0.372,
       "months_held": 0,
-      "to_target_pct": 163.3
+      "to_target_pct": 163.6
     },
     {
       "ticker": "TTD",
@@ -244,13 +244,13 @@
       "p_target": 33.19,
       "g": 0.3006,
       "peg_entry": 0.3971,
-      "price": 13.39,
-      "market_value": 5079.67,
-      "gain": 79.67,
-      "gain_pct": 1.6,
+      "price": 13.37,
+      "market_value": 5070.18,
+      "gain": 70.18,
+      "gain_pct": 1.4,
       "peg_now": 0.397,
       "months_held": 0,
-      "to_target_pct": 147.9
+      "to_target_pct": 148.3
     },
     {
       "ticker": "PGR",
@@ -263,13 +263,13 @@
       "p_target": 542.3,
       "g": 0.2695,
       "peg_entry": 0.4044,
-      "price": 223.32,
-      "market_value": 5092.12,
-      "gain": 92.12,
-      "gain_pct": 1.8,
+      "price": 222.72,
+      "market_value": 5078.33,
+      "gain": 78.33,
+      "gain_pct": 1.6,
       "peg_now": 0.404,
       "months_held": 0,
-      "to_target_pct": 142.8
+      "to_target_pct": 143.5
     },
     {
       "ticker": "ADBE",
@@ -282,13 +282,13 @@
       "p_target": 664.4,
       "g": 0.3427,
       "peg_entry": 0.4144,
-      "price": 275.87,
-      "market_value": 5010.26,
-      "gain": 10.26,
+      "price": 275.75,
+      "market_value": 5008.08,
+      "gain": 8.08,
       "gain_pct": 0.2,
       "peg_now": 0.414,
       "months_held": 0,
-      "to_target_pct": 140.8
+      "to_target_pct": 140.9
     },
     {
       "ticker": "TRV",
@@ -301,13 +301,13 @@
       "p_target": 871.05,
       "g": 0.2205,
       "peg_entry": 0.4174,
-      "price": 372.15,
-      "market_value": 5117.84,
-      "gain": 117.84,
-      "gain_pct": 2.4,
+      "price": 370.99,
+      "market_value": 5101.89,
+      "gain": 101.89,
+      "gain_pct": 2.0,
       "peg_now": 0.417,
       "months_held": 0,
-      "to_target_pct": 134.1
+      "to_target_pct": 134.8
     },
     {
       "ticker": "CINF",
@@ -320,13 +320,13 @@
       "p_target": 354.86,
       "g": 0.1636,
       "peg_entry": 0.4742,
-      "price": 171.13,
-      "market_value": 5084.37,
-      "gain": 84.37,
-      "gain_pct": 1.7,
+      "price": 170.77,
+      "market_value": 5073.68,
+      "gain": 73.68,
+      "gain_pct": 1.5,
       "peg_now": 0.474,
       "months_held": 0,
-      "to_target_pct": 107.4
+      "to_target_pct": 107.8
     },
     {
       "ticker": "NUE",
@@ -339,13 +339,13 @@
       "p_target": 512.24,
       "g": 0.2653,
       "peg_entry": 0.4756,
-      "price": 247.82,
-      "market_value": 5085.99,
-      "gain": 85.99,
-      "gain_pct": 1.7,
+      "price": 246.16,
+      "market_value": 5052.02,
+      "gain": 52.02,
+      "gain_pct": 1.0,
       "peg_now": 0.476,
       "months_held": 0,
-      "to_target_pct": 106.7
+      "to_target_pct": 108.1
     },
     {
       "ticker": "ATO",
@@ -358,13 +358,13 @@
       "p_target": 350.05,
       "g": 0.2717,
       "peg_entry": 0.4767,
-      "price": 166.85,
-      "market_value": 4999.99,
-      "gain": -0.01,
-      "gain_pct": -0.0,
+      "price": 167.32,
+      "market_value": 5014.08,
+      "gain": 14.08,
+      "gain_pct": 0.3,
       "peg_now": 0.477,
       "months_held": 0,
-      "to_target_pct": 109.8
+      "to_target_pct": 109.2
     },
     {
       "ticker": "PHM",
@@ -377,19 +377,19 @@
       "p_target": 270.54,
       "g": 0.2507,
       "peg_entry": 0.4768,
-      "price": 129.96,
-      "market_value": 5037.21,
-      "gain": 37.21,
+      "price": 129.86,
+      "market_value": 5033.33,
+      "gain": 33.33,
       "gain_pct": 0.7,
       "peg_now": 0.477,
       "months_held": 0,
-      "to_target_pct": 108.2
+      "to_target_pct": 108.3
     }
   ],
   "last_update": "2026-08-24",
-  "updates_count": 2,
-  "total_value": 100433.73,
-  "return_pct": 0.43,
+  "updates_count": 3,
+  "total_value": 100355.85,
+  "return_pct": 0.36,
   "top20": [
     {
       "ticker": "UHS",
@@ -577,12 +577,12 @@
   "history": [
     {
       "date": "2026-08-24",
-      "value": 100433.73,
-      "return_pct": 0.43
+      "value": 100355.85,
+      "return_pct": 0.36
     }
   ],
   "chart": {
-    "updated": "2026-08-24T16:34:38.727753+00:00",
+    "updated": "2026-08-24T17:08:43.229608+00:00",
     "anchor_date": "2026-08-24",
     "ranges": [
       "1d",

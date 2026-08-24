@@ -198,9 +198,10 @@ function drawChart() {
   const pc = r.port_return_pct ?? 0;
   const sc = r.spy_return_pct ?? 0;
   const diff = +(pc - sc).toFixed(2);
+  const spyNote = activeRange === "1d" ? "SPY היום" : "SPY מההתחלה";
   stats.innerHTML = `
     <span>תיק: <strong class="${pc >= 0 ? "pos" : "neg"}">${fmtPct(pc)}</strong></span>
-    <span>SPY: <strong class="${sc >= 0 ? "pos" : "neg"}">${fmtPct(sc)}</strong></span>
+    <span>${spyNote}: <strong class="${sc >= 0 ? "pos" : "neg"}">${fmtPct(sc)}</strong></span>
     <span>פער: <strong class="${diff >= 0 ? "pos" : "neg"}">${fmtPct(diff)}</strong></span>`;
 }
 
